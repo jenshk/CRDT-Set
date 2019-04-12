@@ -1,0 +1,15 @@
+{
+  "name": "crdt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.1.2",
+    "nodemon": "^1.18.11"
+  }
+}
